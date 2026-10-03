@@ -38,3 +38,5 @@ getNumber() → 25
 - Functions
 - Reading and updating blockchain data
 - Basic smart contract testing
+Screenshot as a Proof
+<img width="1366" height="768" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/fc45baad-5389-43fd-b550-5c3bd4b9b8fa" />
